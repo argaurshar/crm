@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "gemini-image": {
+      "command": "node",
+      "args": ["./server.js"],
+      "env": {
+        "GEMINI_API_KEY": "REPLACE_WITH_YOUR_KEY",
+        "GEMINI_IMAGE_MODEL": "gemini-2.5-flash-image-preview",
+        "GEMINI_IMAGE_OUTPUT_DIR": "./out"
+      }
+    }
+  },
+  "permissions": {
+    "allow": [
+      "mcp__gemini-image__edit_image",
+      "mcp__gemini-image__generate_image"
+    ]
+  }
+}

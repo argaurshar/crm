@@ -1,0 +1,19 @@
+{
+  "name": "gemini-image-mcp",
+  "version": "0.1.0",
+  "description": "Minimal MCP server exposing Gemini 2.5 Flash Image (Nano Banana) for image edit/generate.",
+  "type": "module",
+  "bin": {
+    "gemini-image-mcp": "./server.js"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@google/genai": "^0.7.0",
+    "@modelcontextprotocol/sdk": "^1.0.4"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
