@@ -1,0 +1,25 @@
+Edit the provided luxury interior render with two precise modifications. Keep
+EVERYTHING else identical — camera angle, focal length, lighting direction,
+color temperature, shadows, reflections, ceiling, dining area, rug, flooring,
+sculpture, mirror, niche, and all other decor.
+
+CHANGE 1 — Sofa:
+Reupholster the long curved sofa in the center-left in deep emerald green
+velvet. Rich saturated jewel tone, soft sheen with realistic velvet pile
+direction and gentle highlight roll-off where light hits the cushions. Keep
+the same silhouette, scale, position, and seam lines exactly. Keep the
+existing throw pillows (rust, blush, cream) and the small bouclé cushion in
+place — DO NOT change them. Keep the brass base if visible.
+
+CHANGE 2 — Wall paneling behind the sofa:
+Replace the existing flat fluted vertical paneling with a sculptural 3D
+parametric wave panel made of matte white MDF. Soft flowing CNC-routed
+curves with smooth chamfered ridges and gentle valleys, casting subtle
+realistic shadows under the existing warm ambient lighting. Gallery-like,
+contemporary, refined. The arched LED-lit niche containing the bronze
+sculpture and the round black mirror remain exactly as in the original —
+they sit in front of / inset into the new white wave paneling.
+
+Output: photorealistic architectural interior photography, 8K, sharp detail,
+correct perspective continuity with the original frame, accurate material
+physics (velvet pile, matte MDF surface, soft shadow gradients).
